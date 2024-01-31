@@ -1,0 +1,1 @@
+Repositório criado para abrigar exercícios feitos em aula sobre os temas do bootcamp python da womakerscode
